@@ -15,6 +15,9 @@
 
 import HelloWorld from './components/HelloWorld.vue';
 import * as Btn from './components/ButtonTest.vue';
+import foo from './components.vue';
+asdoasokdn
+lkalksdn{kasd;}
 
 export default {
   name: 'App',
