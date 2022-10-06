@@ -5,16 +5,22 @@
       src="https://github.com/MicaelaGordillo/TrabajoDeClase_06102022/blob/main/images/blacklist.jpg?raw=true"
     />
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <Btn>Soy pepinillo RICK !!!!</Btn>
   </div>
 </template>
 
+ 
+
 <script>
+
 import HelloWorld from './components/HelloWorld.vue';
+import * as Btn from './components/ButtonTest.vue';
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
+    Btn,
   },
 };
 </script>
