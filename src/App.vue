@@ -7,6 +7,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <Btn>Soy pepinillo RICK !!!!</Btn>
     <Nao />
+    <galeria />
   </div>
 </template>
 
