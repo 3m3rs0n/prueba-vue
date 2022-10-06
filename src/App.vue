@@ -6,7 +6,7 @@
     />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <Btn>Soy pepinillo RICK !!!!</Btn>
-    <btest/>
+    <Nao />
   </div>
 </template>
 
@@ -14,7 +14,7 @@
 import HelloWorld from './components/HelloWorld.vue';
 import * as Btn from './components/ButtonTest.vue';
 import ColorButton from './components/colorButton.vue';
-import btest from './components/ButtonTest.vue';
+import Nao from './components/form.vue';
 
 export default {
   name: 'App',
@@ -22,7 +22,7 @@ export default {
     HelloWorld,
     Btn,
     ColorButton,
-    btest,
+    Nao,
   },
 };
 </script>

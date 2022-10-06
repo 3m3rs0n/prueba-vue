@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'form',
+  name: 'Nao',
   methods: {
     mandarNombre: function (event) {
       var nombre = document.getElementById('nombre').value;
