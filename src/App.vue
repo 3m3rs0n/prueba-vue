@@ -9,18 +9,17 @@
   </div>
 </template>
 
- 
-
 <script>
-
 import HelloWorld from './components/HelloWorld.vue';
 import * as Btn from './components/ButtonTest.vue';
+import ColorButton from './components/colorButton.vue';
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
     Btn,
+    ColorButton,
   },
 };
 </script>
