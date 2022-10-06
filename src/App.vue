@@ -15,6 +15,7 @@ import HelloWorld from './components/HelloWorld.vue';
 import * as Btn from './components/ButtonTest.vue';
 import ColorButton from './components/colorButton.vue';
 import Nao from './components/form.vue';
+import galeria from './components/galeria.vue';
 
 export default {
   name: 'App',
@@ -23,6 +24,7 @@ export default {
     Btn,
     ColorButton,
     Nao,
+    galeria,
   },
 };
 </script>
